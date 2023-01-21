@@ -1,0 +1,82 @@
+div {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+
+.container {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  border: none;
+  border-radius: 4px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+  padding: 10px;
+  
+  
+}
+
+.inboxes-container {
+  width: 200px;
+  color: rgb(153, 152, 152);
+  margin-bottom: 12px;
+  font-size: 12px;
+
+}
+
+.email-info-flexbox {
+  display: flex;
+  align-items: center;
+}
+
+.img {
+  margin: 0px;
+  margin-right: 10px;
+}
+
+.user-pic {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  object-position: top;
+  border-radius: 20px;
+
+}
+
+.email-text-flexbox {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+
+}
+
+.email-header {
+  display: flex;
+  flex-direction: row;  
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+.email-title {
+  font-size: 13.5px;
+  font-weight: bold;
+  margin-bottom: 2px;
+}
+
+.send-time {
+  color: rgb(189, 48, 48);
+  font-size: 12px;
+  font-weight: lighter;
+
+}
+
+.email-object {
+  font-size: 12px;
+  font-weight: bold;
+  margin-bottom: 3px;
+}
+
+.email-content {
+  color: rgb(153, 152, 152);
+  font-size: 12px;
+}

@@ -1,0 +1,37 @@
+.profile-img {
+  width: 54px;
+  height: 54px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 36px;
+  vertical-align: middle;
+  cursor: pointer;
+}
+
+.Text-box {
+  border: none;
+  margin-top: 0px;
+  vertical-align: middle;
+  font-size: 18px;
+  margin-left: 0px;
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.Tweet-button {
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 17px;
+  padding-right: 17px;
+  border-radius: 20px;
+  font-size: 15px;
+  margin-left: 10px;
+  background-color: rgb(0, 144, 250);
+  color: white;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  cursor: pointer;
+
+}

@@ -1,0 +1,20 @@
+.add_to_Cart-button {
+  background-color: rgb(250, 227, 114);
+  color: black;
+  width: 200px;
+  height: 35px;
+  border: none;
+  font-size: medium;
+  font-style: inherit;
+  margin-left: 10px;
+  border-radius: 20px;
+  text-align: center;
+  cursor: pointer;
+  transition: background-color 0.30s;
+
+}
+
+.add_to_Cart-button:hover {
+  background-color: rgb(240, 203, 18)
+
+}

@@ -1,0 +1,57 @@
+.flexbox{
+  display: flex;
+  flex-direction: row;
+  margin-top: 30px;
+
+}
+
+.div1 {
+  background-color: lightblue;
+}
+
+.div2 {
+  background-color: lightpink;
+}
+
+.flexbox1 {
+  display: flex;
+  border-width: 1px;
+  border-style: solid;
+  border-color: grey;
+  height: 100px;
+  justify-content: space-between;
+  align-items: center;
+  
+
+}
+
+.body {
+  padding-bottom: 1000px;
+}
+
+.div3 {
+  background-color: lightblue;
+  width: 100px;
+}
+
+.div4 {
+  background-color: lightpink;
+  flex: 1;
+}
+
+.div5 {
+  width: 100px;
+  background-color: lightblue;
+}
+
+.div6 {
+
+  width: 100px;
+  background-color: lightpink;
+}
+
+.div7 {
+
+  width: 100px;
+  background-color: lightblue;
+}

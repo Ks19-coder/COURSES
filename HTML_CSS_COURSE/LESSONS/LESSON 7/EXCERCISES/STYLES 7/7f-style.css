@@ -1,0 +1,50 @@
+.Email {
+  color: grey;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  margin-bottom: 6px;
+  margin-top: 0px;
+
+}
+
+.Email-box {
+  width: 300px;
+  padding: 7px;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1.5px;
+  border-color: black;
+  font-family: Arial;
+
+}
+
+.Policy {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: grey;
+}
+
+.A-J {
+  color: rgb(0, 140, 255);
+  text-decoration: underline;
+
+}
+
+.A-J_button {
+  padding-top: 13px;
+  padding-bottom: 13px;
+  padding-left: 120px;
+  padding-right: 120px;
+  border: none;
+  border-radius: 20px;
+  background-color: rgb(0, 140, 255);
+  color: white;
+  text-align: center;
+  transition: opacity 0.1s;
+}
+
+.A-J_button:hover {
+
+  opacity: 0.8;
+  cursor: pointer;
+}

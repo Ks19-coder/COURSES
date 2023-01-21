@@ -1,0 +1,15 @@
+.deals-text {
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 26px;
+  margin-bottom: 5px;
+}
+
+.sales-text {
+  font-family: Arial;
+  font-style: italic;
+  font-size: 18px;
+  color: red;
+  margin-top: 0;
+}
+

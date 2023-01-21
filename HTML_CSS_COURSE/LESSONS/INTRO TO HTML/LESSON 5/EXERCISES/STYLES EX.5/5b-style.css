@@ -1,0 +1,25 @@
+.Title {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 0px;
+  }
+
+.Sub-title {
+    font-family: Arial;
+    font-size: 17px;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 20px;
+  }
+  
+.link {
+    font-family: Arial;
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 20px;
+    color: rgb(45, 131, 245);
+
+  }

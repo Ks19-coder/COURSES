@@ -1,0 +1,40 @@
+.Apply_on_company_website_button {
+  background-color: rgb(10, 102, 194);
+  color: white;
+  width: 265px;
+  height: 40px;
+  border: none;
+  border-radius: 20px;
+  font-weight: bold;
+  font-size: 16px;
+  margin-right: 10px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+
+  }
+
+.Apply_on_company_website_button:hover {
+  background-color: rgb(10, 86, 163);
+}
+
+.Save-button {
+  background-color: white;
+  color: rgb(10, 102, 194);
+  width: 90px;
+  height: 40px;
+  border-radius: 50px;
+  border-color:rgb(10, 102, 194);
+  border-style: solid;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  border-width: 1px;
+  transition: border-width 0.1s,
+              background-color 0.3s;
+
+}
+
+.Save-button:hover {
+  border-width: 2px;
+  background-color: rgb(205, 230, 255);
+}

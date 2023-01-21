@@ -1,0 +1,16 @@
+.text {
+  display: inline-block;
+  width: 190px;
+  vertical-align: middle;
+}
+
+.Yes-button {
+  vertical-align: middle;
+
+}
+
+.No-button {
+  vertical-align: middle;
+
+
+}

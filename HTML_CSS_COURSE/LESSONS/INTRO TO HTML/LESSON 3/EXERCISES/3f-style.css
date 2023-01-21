@@ -1,0 +1,103 @@
+.Link_to_Amazon {
+  color: rgb(27, 221, 205);
+  transition: color 0.20s;
+}
+
+.Link_to_Amazon:hover {
+  color: rgb(255, 0, 0);
+}
+
+.monitor {
+  color: black;
+  font-size: 25px;
+  font-weight: bolder;
+ 
+}
+
+.DETTAGLI_PRODOTTO {
+  font-size: 19px;
+  font-weight: bolder;
+  color: rgb(30, 155, 187);
+  margin: 3px;
+
+}
+
+.Dimensione {
+  font-size: 17px;
+  margin-left: 20px;
+}
+
+.Frequenza {
+  font-size: 17px;
+  margin-left: 20px;
+}
+
+.Tempo_di_risposta {
+  font-size: 17px;
+  margin-left: 20px;
+}
+
+.Risoluzione {
+  font-size: 17px;
+  margin-left: 20px;
+}
+
+.Prezzo {
+  color: rgb(0, 118, 0);
+  font-weight: bolder;
+  font-size: 17px;
+  margin-left: 150px;
+
+}
+
+.Aggiungi_al_carrello {
+  background-color: rgb(250, 227, 114);
+    color: black;
+    border: none;
+    font-size: medium;
+    font-style: inherit;
+    margin: 8px;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    cursor: pointer;
+    transition: background-color 0.2s,
+                opacity 0.2s;
+
+}
+
+.Aggiungi_al_carrello:hover {
+  background-color: rgb(236, 207, 60);
+
+}
+
+.Aggiungi_al_carrello:active {
+  opacity: 0.5;
+
+}
+
+.Acquista_ora {
+  background-color: rgb(255, 164, 28);
+  border: none;
+  border-radius: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 30px;
+  padding-left: 30px;
+  margin: 8px;
+  font-size: medium;
+  cursor: pointer;
+  transition: background-color 0.2s,
+              opacity 0.2s;
+}
+
+.Acquista_ora:hover {
+  background-color: rgb(247, 133, 3);
+}
+
+.Acquista_ora:active {
+  opacity: 0.5;
+}

@@ -1,0 +1,27 @@
+.Back-button {
+  margin-right: 8px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 11px;
+  padding-bottom: 11px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.Next-button {
+  margin-right: 8px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 11px;
+  padding-bottom: 11px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.Page-result {
+  margin-left: 8px;
+  margin-right: 8px;
+  font-size: 16px;
+
+
+}

@@ -1,0 +1,15 @@
+.flexbox {
+  display: flex;
+
+}
+
+.box1 {
+  width: 200px;
+  background-color: lightpink;
+
+}
+
+.box2 {
+  width: 75px;
+  background-color: lightblue;
+}

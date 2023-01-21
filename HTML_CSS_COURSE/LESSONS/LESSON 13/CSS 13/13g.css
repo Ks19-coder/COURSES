@@ -1,0 +1,107 @@
+div {
+  margin: 0;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.container {
+  border: solid;
+  width: 400px;
+  height: fit-content;
+  display: flex;
+  justify-content: row;
+  padding: 5px;
+  padding-bottom: 10px;
+  padding-right: 15px;
+  border-radius: 10px;
+  border-color: rgb(33, 166, 223);
+}
+
+.img-container {
+  display: flex;
+  justify-content: column;
+
+}
+
+.profile-pic {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  object-position: top;
+  border-radius: 30px;
+  margin-right: 10px;
+}
+
+.content-flexbox {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 8px;
+  flex: 1;
+}
+
+.user-info {
+  display: flex;
+
+}
+
+.user-link {
+  font-weight: bold;
+}
+
+.user-name {
+  color: grey;
+  margin-left: 5px;
+}
+
+.post-text {
+  margin-top: 5px;
+  line-height: 18px;
+  font-size: 14px;
+  margin-bottom: 10px;
+  border-bottom-color: rgb(6, 21, 109);
+  border-bottom: solid;
+  border-color: rgb(33, 166, 223);
+  border-bottom-width: 1px;
+}
+
+.linked-video-flexbox {
+  display: flex;
+  border: solid;
+  flex-direction: row;
+  align-items: center;
+  border-radius: 15px;
+  border: none;
+  box-shadow: 0px 0px 2px rgba(201, 201, 201, 1);
+  overflow: hidden;
+  background-color: white;
+}
+
+
+.video-img {
+  width: 90px;
+  height: 85px;
+  background-color: rgb(200, 200, 200);
+  margin-right: 10px;
+}
+
+.video-description {
+  flex: 1;
+  vertical-align: middle;
+
+}
+
+.video-site-link {
+  color: grey;
+  margin-bottom: 5px;
+  font-size: 14px
+}
+
+.video-title {
+  font-size: 14px;
+
+}
+
+
+
+
+

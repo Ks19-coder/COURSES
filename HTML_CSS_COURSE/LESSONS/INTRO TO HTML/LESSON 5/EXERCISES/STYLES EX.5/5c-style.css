@@ -1,0 +1,61 @@
+.Title {
+  font-size: 21px;
+  font-family: Verdana;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.Sub-Title {
+  font-family: Verdana;
+  font-size: 18px;
+  color: rgba(158, 157, 158, 0.938);
+  margin-top: 0px;
+  margin-bottom: 15px;
+
+}
+
+.description-container {
+  margin-right: 650px;
+}
+
+.Description {
+  font-family: Verdana;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 15px;
+
+}
+
+.Start-button {
+  font-family: Verdana;
+  color: white;
+  background-color: green;
+  border: none;
+  border-radius: 5px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-align: center;
+  margin-top: 0;
+  cursor: pointer;
+  margin-left: 0px;
+  margin-top: 10px;
+  transition: 0.15s;
+  }
+
+.Start-button:hover {
+  text-decoration: underline;
+
+
+}
+
+.Start-button:active {
+  border-radius: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 11px;
+  padding-right: 11px;
+  margin-left: 14px;
+  margin-top: 12px;
+}

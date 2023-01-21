@@ -1,0 +1,19 @@
+.Sign_up-button {
+  background-color: rgb(46, 164, 79);
+  color: white;
+  height: 35px;
+  border: none;
+  width: 100px;
+  border-radius: 5px;
+  font-size: 15px;
+  font-weight: 600;
+  text-align: center;
+  margin-left: 10px;
+  cursor: pointer;
+  transition: box-shadow 0.3s;
+
+}
+
+.Sign_up-button:hover {
+  box-shadow: -2.5px 5px 15px rgba(173, 173, 173, 0.678);
+}
